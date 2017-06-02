@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/Users/ecin/Developer/ruby/homewrights'
+let g:netrw_dirhist_2='/Users/ecin/Developer/ruby/homewrights/spec/support/factories'
+let g:netrw_dirhist_3='/Users/ecin/Developer/ruby/homewrights'
+let g:netrw_dirhist_4='/Users/ecin/Developer/ruby/homewrights/app'
+let g:netrw_dirhist_5='/Users/ecin/Developer/ruby/homewrights/app/controllers'
+let g:netrw_dirhist_6='/Users/ecin/Developer/ruby/homewrights/spec/views/client/project'
+let g:netrw_dirhist_7='/Users/ecin/Developer/ruby/homewrights/spec/views/client'
+let g:netrw_dirhist_8='/Users/ecin/Developer/ruby/homewrights/spec/views/client/projects'
+let g:netrw_dirhist_9='/Users/ecin/Developer/ruby/homewrights'
